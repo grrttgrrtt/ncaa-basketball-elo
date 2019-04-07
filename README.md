@@ -9,3 +9,5 @@ In addition to overall Elo ratings, this systems is capable of tracking Elo scor
 
 Future Plans:
 I would very much like to implement some kind of roster awareness so that the impact of individual players can be tracked. Furthermore, I would like to use the Elo ratings for shooting percentage, turnover, rebounding, etc. to build monte-carlo style game simulations to build winning percentages/probable score distributions.
+
+No license is offered.
